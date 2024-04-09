@@ -1,4 +1,5 @@
 Startup_funding
+
 The "Startup_funding" initiative delves into the funding landscape of Indian startups spanning from January 2015 to August 2017. Within this dataset lie crucial details including serial numbers, funding dates, startup names, industry verticals, sub-verticals, city locations, investors' identities, investment types (private equity or seed funding), funding amounts in USD, and supplementary remarks.
 
 Primary Goals:
