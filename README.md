@@ -2,7 +2,7 @@
 
 The "Startup_funding" initiative delves into the funding landscape of Indian startups spanning from January 2015 to August 2017. Within this dataset lie crucial details including serial numbers, funding dates, startup names, industry verticals, sub-verticals, city locations, investors' identities, investment types (private equity or seed funding), funding amounts in USD, and supplementary remarks.
 
-Primary Goals:
+<h3> Primary Goals: </h3>
 
 Startup Categorization: The project endeavors to categorize the various types of startups that secured funding within the specified timeframe.
 Investor Examination: It aims to scrutinize the key investors who participated significantly in these funding rounds.
